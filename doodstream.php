@@ -5,7 +5,7 @@
 */
 
 class DoodstreamAPI {
-	private $api_key = '';
+	private $api_key = '109239y7zsjpnr7y34zy5t';
 	
 	public function Setup($api_key) {
 		$this->api_key = $api_key;
